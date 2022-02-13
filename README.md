@@ -1,2 +1,2 @@
 # Katas_1
-Katas Onboarding launchX
+Katas de la misión de Onboarding LaunchX
